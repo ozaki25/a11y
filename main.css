@@ -1,5 +1,9 @@
 #title,
 #title:hover,
 #title:active {
-  color: #616161;
+  color: #fff;
+}
+
+#send {
+  tabindex: 0;
 }
