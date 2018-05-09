@@ -5,5 +5,5 @@
 }
 
 #send {
-  tabindex: 0;
+  tabindex: "0";
 }
